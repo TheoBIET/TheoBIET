@@ -28,9 +28,9 @@
 
 ### My Favourite Repo's !
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoBIET&repo=TB-InfectedZone&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoBIET&repo=Discord-Anonymous-Chat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoBIET&repo=SnakeVanillaJS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoBIET&repo=TB-InfectedZone&theme=dark)](https://github.com/TheoBIET/TB-InfectedZone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoBIET&repo=Discord-Anonymous-Chat&theme=dark)](https://github.com/TheoBIET/Discord-Anonymous-Chat)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoBIET&repo=SnakeVanillaJS&theme=dark)](https://github.com/TheoBIET/SnakeVanillaJS)
 
 
 ### My Stats !
