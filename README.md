@@ -1,5 +1,5 @@
 ### Hi there, i'm Théo BIET aka imDavDav 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/biet_theo_)](https://twitter.com/biet_theo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/biet_theo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/biet_theo)
 
 ## I am a self-taught developer and soon to be a student at O'Clock
   - 💬 Ask me about my actual repositories
