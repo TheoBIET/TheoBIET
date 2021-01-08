@@ -31,6 +31,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoBIET&repo=TB-InfectedZone&theme=dark)](https://github.com/TheoBIET/TB-InfectedZone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoBIET&repo=Discord-Anonymous-Chat&theme=dark)](https://github.com/TheoBIET/Discord-Anonymous-Chat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoBIET&repo=SnakeVanillaJS&theme=dark)](https://github.com/TheoBIET/SnakeVanillaJS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoBIET&repo=BeatApp&theme=dark)](https://github.com/TheoBIET/BeatApp)
 
 
 ### My Stats !
