@@ -1,4 +1,4 @@
-### Hi there, i'm Théo BIET aka imDavDav 👋
+### Hi there, i'm Théo BIET aka ƊɑѵƊɑѵ 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/biet_theo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/biet_theo)
 
 ## I am a self-taught developer and soon to be a student at O'Clock
