@@ -1,5 +1,5 @@
 ### Hi there, i'm Théo BIET aka ƊɑѵƊɑѵ 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/jsDavDav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jsDavDav)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DavDav_js?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DavDav_js)
 
 ## I am a self-taught developer and soon to be a student at O'Clock
   - 💬 Ask me about my actual repositories
