@@ -1,9 +1,9 @@
 ### Hi there, i'm Théo BIET aka ƊɑѵƊɑѵ 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/DavDav_js?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DavDav_js)
 
-## I am a self-taught developer and soon to be a student at O'Clock
+## I am a self-taught developer and a student at O'Clock
   - 💬 Ask me about my actual repositories
-  - 🌱 I’m currently learning a lot of new langages for be better
+  - 🌱 I’m currently study at O'Clock to become better!
 
 ### Languages and Tools:
 
