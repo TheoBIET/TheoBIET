@@ -84,7 +84,6 @@
 
 <div align='center'>
 <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>📊 Github Statistics</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBIET&layout=compact&theme=radical" /><br>
     <img src="https://github-readme-stats.vercel.app/api?username=TheoBIET&show_icons=true&theme=radical" /><br>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheoBIET&layout=compact&theme=radical" /><br>
 </div>
