@@ -15,11 +15,8 @@
     <a href="">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="">
+    <a href="https://discord.gg/JAsTNjZBv8">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    <a href="">
-        <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="">
         <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />
