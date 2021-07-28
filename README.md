@@ -3,7 +3,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 <div style='padding:1em; display:flex;justify-content:center;'>
-    <a href="https://twitter.com/DavDav_js">
+    <a href="https://theobiet.fr">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
     </a>&nbsp;&nbsp;
     <a href="https://twitter.com/DavDav_js">
@@ -18,10 +18,10 @@
     <a href="https://discord.gg/JAsTNjZBv8">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="">
+    <a href="https://myanimelist.net/profile/imDavDav">
         <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="">
+    <a href="https://open.spotify.com/user/mptvoff622!">
         <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
     </a>&nbsp;&nbsp;
 </div>
