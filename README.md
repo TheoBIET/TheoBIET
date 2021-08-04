@@ -31,11 +31,11 @@
           <img style="width:50%" align='right' src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" />
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
-            <li>🔭 I’m currently study at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better.</li>
-            <li>🔨 Work on <a href="https://github.com/TheoBIET/baaka"><b>Baaka</b></a>, a search engine to watch your favorite anime in one place and without ads!</li>
+            <li>🔭 I’m currently studying at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better at coding.</li>
+            <li>🔨 Working on <a href="https://github.com/TheoBIET/baaka"><b>Baaka</b></a>, a search engine to watch your favorite anime in one place and without ads!</li>
             <li>🧐 Learning about <strong>API creation</strong> and eat a lot of <strong>databases</strong>.</li>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
-            <li>🏴‍☠️ Currently, I am watching <b>One Piece</b></li>
+            <li>🏴‍☠️ I am currently watching <b>One Piece</b></li>
         </ul>
     </div>
 </div>
