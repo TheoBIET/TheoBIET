@@ -32,7 +32,7 @@
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I’m currently study at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better.</li>
-            <li>🔨 Work on <a href="https://oclock.io/"><b>oTaki API</b></a>, a search engine to watch your favorite anime in one place and without ads!</li>
+            <li>🔨 Work on <a href="https://github.com/TheoBIET/baaka"><b>Baaka</b></a>, a search engine to watch your favorite anime in one place and without ads!</li>
             <li>🧐 Learning about <strong>API creation</strong> and eat a lot of <strong>databases</strong>.</li>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
             <li>🏴‍☠️ Currently, I am watching <b>One Piece</b></li>
@@ -82,5 +82,5 @@
 <div align='center'>
 <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>📊 Github Statistics</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=TheoBIET&show_icons=true&theme=radical" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheoBIET&layout=compact&theme=radical" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@davdav&layout=compact&theme=radical" /><br>
 </div>
