@@ -33,7 +33,7 @@
         <ul>
             <li>🔭 I’m currently studying at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better at coding.</li>
             <li>🔨 Working on <a href="https://github.com/TheoBIET/baaka"><b>Baaka</b></a>, a search engine to watch your favorite anime in one place and without ads!</li>
-            <li>🧐 Learning about <strong>API creation</strong> and eat a lot of <strong>databases</strong>.</li>
+            <li>🧐 Learning about <strong>API creation</strong> and <strong>databases</strong>.</li>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
             <li>🏴‍☠️ I am currently watching <b>One Piece</b></li>
         </ul>
