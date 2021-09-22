@@ -31,9 +31,8 @@
           <img style="width:50%" align='right' src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" />
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
-            <li>🔭 I’m currently studying at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better at coding.</li>
-            <li>🔨 Working on <a href="https://github.com/TheoBIET/baaka"><b>ExplorAstro</b></a>, a social network to participate in astronomical explorations between enthusiasts!</li>
-            <li>🧐 Learning about <strong>API creation</strong> and <strong>databases</strong>.</li>
+            <li>🔭 I’m currently working at <a href="https://yalgow.com/"><b>Yalgow</b></a>!</li>
+            <li>🧐 Learning about <strong>AI</strong> and <strong>Data Analysis</strong>.</li>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
             <li>🏴‍☠️ I am currently watching <b>One Piece</b></li>
         </ul>
