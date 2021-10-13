@@ -32,7 +32,7 @@
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I’m currently working at <a href="https://yalgow.com/"><b>Yalgow</b></a>!</li>
-            <li>🧐 Learning about <strong>AI</strong> and <strong>Data Analysis</strong>.</li>
+            <li>🧐 Learning about <strong>AI</strong> and <strong>Data Analysis</strong> at <a href="https://github.com/TheoBIET/3wa-learning"><b>3W Academy</b> .</li>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
             <li>🏴‍☠️ I am currently watching <b>One Piece</b></li>
         </ul>
