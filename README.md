@@ -32,7 +32,7 @@
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I’m currently working at <a href="https://www.capgemini.com/fr-fr/"><b>Cap Gemini</b></a>!</li>
-            <li>🧐 Learning about <strong>Artificial Intelligence</strong> and <strong>Reinforcement Learning</strong></li>
+            <li>🧐 Learning about <strong>Unreal Engine 5</strong</li>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
             <li>🏴‍☠️ I am currently watching <b>One Piece</b></li>
         </ul>
