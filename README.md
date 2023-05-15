@@ -77,9 +77,3 @@
         <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
         <img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" />
 </div>
-
-<div align='center'>
-<h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>📊 Github Statistics</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=TheoBIET&show_icons=true&theme=radical" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@davdav&layout=compact&theme=radical" /><br>
-</div>
