@@ -22,12 +22,13 @@
 
 <div style='font-family: "Roboto", sans-serif; display:flex;justify-content:space-around;align-items:center;'>
     <div style="width:70%">
-          <img style="width:50%" align='right' src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" />
+          <img style="width:50%" align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd2eDhxdDlsMW1pdzNhd3ZndXgzbHo0d3ZlMTRjaHppMTg2dm0zZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FCa6hZaIkSLqHZB2rO/giphy.gif" />
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
-            <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
-            <li>🏴‍☠️ I am currently watching <b>One Piece</b></li>
             <li>🧠 I may have developed a script that commits for me every day lmao</b></li>
+            <li>📺 I am currently watching <b>Solo Leveling</b></li>
+            <li>📖 I am currently reading <b>Great Teacher Onizuka</b></li>
+            <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
         </ul>
     </div>
 </div>
