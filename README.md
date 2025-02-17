@@ -33,6 +33,7 @@
         <ul>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
             <li>🏴‍☠️ I am currently watching <b>One Piece</b></li>
+            <li>🧠 I may have developed a script that commits for me every day lmao</b></li>
         </ul>
     </div>
 </div>
